@@ -2,7 +2,7 @@
 
 Main Features: \
 -> With UI. \
--> Can perform basic arithmetic calculations (addition, subtraction, multiplication, division). \
+-> Can perform basic arithmetic calculations (addition, subtraction, multiplication, division).
 
 Limitations: \
 -> Can only perform arithmetric operations. \
